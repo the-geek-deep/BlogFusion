@@ -1,0 +1,26 @@
+{
+  "name": "shelby00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-geek-deep/BlogFusion.git"
+  },
+  "author": "the-geek-deep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-geek-deep/BlogFusion/issues"
+  },
+  "homepage": "https://github.com/the-geek-deep/BlogFusion#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1"
+  }
+}
