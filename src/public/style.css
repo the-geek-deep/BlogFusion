@@ -1,0 +1,60 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  #user-info {
+    float: right;
+  }
+  
+  #username {
+    margin-right: 10px;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  #blog-form {
+    margin-bottom: 20px;
+  }
+  
+  #blog-form input,
+  #blog-form textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  #blog-form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #blog-posts {
+    margin-bottom: 20px;
+  }
+  
+  .blog-post {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
